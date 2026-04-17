@@ -1,0 +1,9 @@
+{
+  "genes_queried": 338,
+  "gene_nodes": 328,
+  "disease_nodes": 3853,
+  "edges": 13476,
+  "min_score_filter": 0.0,
+  "genes_file": "data/genes.txt",
+  "api_endpoint": "https://api.disgenet.com/api/v1/gda/summary"
+}
