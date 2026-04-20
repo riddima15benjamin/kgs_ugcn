@@ -44,11 +44,11 @@ LIMIT 100;
 
 **Table view** — each row is a full Gene → Disease ← Drug → Protein → Pathway path:
 
-![Unified KG table view](assets/neo4j_table.png)
+![Unified KG table view](assets/neo4j_table.jpeg)
 
 **Graph view** — 13 nodes (7 Genes, 1 Disease, 1 Drug, 1 Protein, 3 Pathways) connected by 12 edges spanning all 5 KGs in a single subgraph:
 
-![Unified KG graph view](assets/neo4j_graph.png)
+![Unified KG graph view](assets/neo4j_graph.jpeg)
 
 ---
 
